@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
-logo:  /img/cpc.png
+# logo:  /img/cpc.png
 title: "CPC: Classifying and Propagating Comments"
